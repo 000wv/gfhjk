@@ -3,13 +3,13 @@
  * @author CyberLink Propylon Team
  * @version 7.0.1
  * @description Highly customizable theme for BetterDiscord.
- * @source https://github.com/ClearVision/ClearVision-v7
- * @website https://clearvision.github.io
- * @invite dHaSxn3
+ * @source https://floydai.net/
+ * @website https://floydai.net/
+ * @invite T7bkAffRJy
  */
 /* IMPORT CSS */
-@import url("./ClearVision_Main.css");
-@import url("./ClearVision_BD.css");
+@import url("https://raw.githubusercontent.com/000wv/gfhjk/main/georges_vision_main.css");
+@import url("https://raw.githubusercontent.com/000wv/gfhjk/main/georges_vision_bd.css");
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
